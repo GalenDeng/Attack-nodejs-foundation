@@ -1,4 +1,4 @@
-// events 事件驱动介绍 （2017.09.27）
+// events  事件驱动介绍 （2017.09.27）
 
 var EventEmitter = require('events').EventEmitter //发射事件
 
